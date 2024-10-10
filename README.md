@@ -14,6 +14,6 @@ there are currently 27 plugins and 5 of them aren't loaded by default
 to download this neovim config use this cmd:
 
 ```bash
-git clone https://github.com/afroaman/nvim ~/.config/nvim/
+git clone https://github.com/AmanuelIsaak/nvim ~/.config/nvim/
 ```
 enjoy!
